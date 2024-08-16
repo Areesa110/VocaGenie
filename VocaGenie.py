@@ -37,7 +37,7 @@ def main():
 
     # Sidebar
     with st.sidebar:
-        st.image('D:\ICodeGuru\Gen AI Training\Implementation\Text-To-Speech Converter\Text-To-Speech Image.PNG', caption='')  # Placeholder image
+        st.image('https://github.com/Areesa110/VocaGenie/blob/main/Text-To-Speech%20Image.PNG', caption='')  # Placeholder image
         st.title('VocaGenie')
         st.write("### Description")
         st.write(
