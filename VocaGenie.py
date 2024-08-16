@@ -37,7 +37,7 @@ def main():
 
     # Sidebar
     with st.sidebar:
-        imgURL = 'https://github.com/Areesa110/VocaGenie/blob/main/Text-To-SpeechImage.PNG'
+        imgURL = 'https://raw.githubusercontent.com/Areesa110/VocaGenie/main/Text-To-SpeechImage.PNG'
         st.image(imgURL, caption='')  # Placeholder image
         st.title('VocaGenie')
         st.write("### Description")
