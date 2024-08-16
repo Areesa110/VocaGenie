@@ -39,7 +39,7 @@ def main():
     with st.sidebar:
         imgURL = 'https://raw.githubusercontent.com/Areesa110/VocaGenie/main/Text-To-SpeechImage.PNG'
         st.image(imgURL, caption='')  # Placeholder image
-        st.title('VocaGenie')
+        st.title('VocaGenie')git
         st.write("### Description")
         st.write(
             """
