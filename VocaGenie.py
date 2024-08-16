@@ -15,7 +15,7 @@ def main():
         """
         <style>
         .stApp {
-            background: linear-gradient(45deg, #ff6f61, #ffcc5c, #d4a5a5, #d0e1f9);
+            background: linear-gradient(45deg, #00FFFF, #00FFFF, #008B8B, #FF1493, #FFC0CB, #A020F0, #D0E1F9);
             background-size: 400% 400%;
             animation: gradient 15s ease infinite;
         }
@@ -39,7 +39,7 @@ def main():
     with st.sidebar:
         imgURL = 'https://raw.githubusercontent.com/Areesa110/VocaGenie/main/Text-To-SpeechImage.PNG'
         st.image(imgURL, caption='')  # Placeholder image
-        st.title('VocaGenie')git
+        st.title('VocaGenie')
         st.write("### Description")
         st.write(
             """
